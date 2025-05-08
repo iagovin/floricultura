@@ -1,0 +1,15 @@
+
+.titulo{
+    font-size:2vh;
+    background-color: rgb(69, 92, 69);
+    background-position: relative;
+ padding: 2px;
+ margin: 2px;
+}
+body{
+    line-height: normal;
+font-family:'Times New Roman', Times, serif;
+background-color: rgb(112, 138, 73);
+text-align: center;
+color: white;
+}
